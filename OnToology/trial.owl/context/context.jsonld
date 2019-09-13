@@ -1,0 +1,10 @@
+{
+  "@context" : {
+    "label" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#label"
+    },
+    "LivingOrganism" : {
+      "@id" : "http://www.semanticweb.org/stiwari/ontologies/2019/8/untitled-ontology-125#LivingOrganism"
+    }
+  }
+}
