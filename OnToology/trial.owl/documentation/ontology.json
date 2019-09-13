@@ -1,0 +1,15 @@
+[ {
+  "@id" : "http://www.semanticweb.org/stiwari/ontologies/2019/8/untitled-ontology-125",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Organism ontology"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/stiwari/ontologies/2019/8/untitled-ontology-125#LivingOrganism",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "LivingOrganism"
+  } ]
+} ]
